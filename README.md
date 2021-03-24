@@ -1,2 +1,2 @@
 # Blog
-blog application
+Blog application created in Java.
